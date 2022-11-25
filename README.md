@@ -1,5 +1,5 @@
 <h2>Hi there, I'm <a href="#">一只Coder</a> 👋</h2>
-<p>I am currently a web front-end developer, as well as a fan of board painting</p>
+<p>I am currently a web front-end developer</p>
 <p>🌠 Hoping to create something that can be remembered by others ☄️</p>
 
 <h2>🚀 Some Tools I Use</h2>
